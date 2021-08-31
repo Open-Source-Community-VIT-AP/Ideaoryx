@@ -37,7 +37,7 @@ export const Para = styled.p`
     max-width: 1165px;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 24px;
     letter-spacing: 0.02em;
 
     @media screen and (max-width: 768px) {
@@ -46,7 +46,7 @@ export const Para = styled.p`
 `
 
 export const AboutImage = styled.img`
-    max-width: 1010px;
+    max-width: 880px;
     align-self: flex-end;
     width: 100%;
 

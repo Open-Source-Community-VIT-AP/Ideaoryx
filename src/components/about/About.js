@@ -14,6 +14,7 @@ function About() {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis magnam vitae harum, laboriosam aliquam eum aperiam doloribus pariatur libero quas quisquam itaque rem quaerat dolores laudantium blanditiis atque mollitia. Dolorem omnis perferendis tempora asperiores vel voluptate magni laudantium cum dolores, fuga inventore! Eum vero autem impedit, excepturi officiis iusto.
                     </Para>
                 </TextContainer>
+                <br />
                 <AboutImage src ={aboutimg}></AboutImage>
             </AboutContainer>
         </>
