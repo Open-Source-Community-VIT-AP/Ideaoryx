@@ -49,6 +49,7 @@ function Footer() {
           <br />
           <br />
           <FooterCopyright>© 2021 Open Source Community: VIT-AP</FooterCopyright>
+          <br />
         </FooterInnerContainer>
       </FooterContainer>
     </>
