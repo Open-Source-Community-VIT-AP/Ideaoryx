@@ -4,6 +4,11 @@ import Home from './pages/Home';
 import Loader from './Loader';
 
 function App() {
+
+  setTimeout(() => {
+    document.body.style.overflow = 'scroll';
+    }, 7000);
+    
   return (
     <Router>
       <Loader/>
