@@ -15,7 +15,8 @@ const GlobalCss = withStyles({
       marginRight:'0',
       width: '140px',
       paddingLeft: '0',
-      textAlign: 'left',
+      paddingTop: '0',
+      textAlign: 'right',
       
     },
     '.MuiTimelineContent-root': {
