@@ -20,7 +20,7 @@ function hero() {
             <NavBtnLink href="#">Register</NavBtnLink>
           
         </div>
-        <HeroImage src={heroimg}></HeroImage>
+        {/* <HeroImage src={heroimg}></HeroImage> */}
       </HeroContainer>
     </>
   );

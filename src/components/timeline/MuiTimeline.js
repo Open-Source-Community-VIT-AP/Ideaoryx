@@ -13,7 +13,7 @@ const GlobalCss = withStyles({
     '.MuiTimelineOppositeContent-root': {
       flex: 'none',
       marginRight:'0',
-      width: '140px',
+      width: '80px',
       paddingLeft: '0',
       paddingTop: '0',
       textAlign: 'right',
@@ -41,7 +41,7 @@ function MuiTimeline() {
     <GlobalCss />
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">14<sup>th</sup> January</Typography>
+            <Typography color="textSecondary">14<sup>th</sup> Jan</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -56,7 +56,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">15<sup>th</sup> January</Typography>
+            <Typography color="textSecondary">15<sup>th</sup> Jan</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -71,7 +71,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">16<sup>th</sup> January</Typography>
+            <Typography color="textSecondary">16<sup>th</sup> Jan</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -86,7 +86,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">19<sup>th</sup> January</Typography>
+            <Typography color="textSecondary">19<sup>th</sup> Jan</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
