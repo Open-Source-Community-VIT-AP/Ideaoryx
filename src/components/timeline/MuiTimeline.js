@@ -41,7 +41,7 @@ function MuiTimeline() {
     <GlobalCss />
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">14<sup>th</sup> Jan</Typography>
+            <Typography color="textSecondary">5<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -56,7 +56,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">15<sup>th</sup> Jan</Typography>
+            <Typography color="textSecondary">6<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -71,7 +71,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">16<sup>th</sup> Jan</Typography>
+            <Typography color="textSecondary">7<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -86,7 +86,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">19<sup>th</sup> Jan</Typography>
+            <Typography color="textSecondary">13<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
