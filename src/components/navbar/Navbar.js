@@ -12,7 +12,7 @@ import {
   NavBtnLink,
 } from "./NavbarElements";
 
-import logo from '../../assets/IdeaOryx.svg'
+import logo from '../../assets/Ideaoryx.svg'
 
 function Navbar({ toggle }) {
   return (
