@@ -13,11 +13,11 @@ function hero() {
     <>
       <HeroContainer id="home">
         <div>
-          <HeroText>Ideaoryx</HeroText>
+          <HeroText>IdeaOryx</HeroText>
           <HeroText2>Ideate, Create and Innovate.</HeroText2>
             <br />
           
-            <NavBtnLink href="#">Register</NavBtnLink>
+            <NavBtnLink href="https://forms.gle/BK7EHuQHAxv3T8Vi9">Register</NavBtnLink>
           
         </div>
         {/* <HeroImage src={heroimg}></HeroImage> */}

@@ -81,7 +81,7 @@ function MuiTimeline() {
             <Typography variant="h6" component="h1">
               Review
             </Typography>
-            <Typography>Submitted ideas will be evaluated by an expert panel based on several parameters.</Typography>
+            <Typography>Submitted projects will be evaluated by an expert panel based on several parameters.</Typography>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
@@ -96,7 +96,7 @@ function MuiTimeline() {
             <Typography variant="h6" component="h1">
               Result announcement
             </Typography>
-            <Typography>Ideaoryx comes to an end. The best idea and the team are announced to the public.</Typography>
+            <Typography>IdeaOryx comes to an end. The best idea and the team are announced to the public.</Typography>
           </TimelineContent>
         </TimelineItem>
         
