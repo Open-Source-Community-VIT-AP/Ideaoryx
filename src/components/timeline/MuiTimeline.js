@@ -81,7 +81,7 @@ function MuiTimeline() {
             <Typography variant="h6" component="h1">
               Review
             </Typography>
-            <Typography>Submitted project will be evaluated by an expert panel based on several parameters.</Typography>
+            <Typography>Submitted projects will be evaluated by an expert panel based on several parameters.</Typography>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
