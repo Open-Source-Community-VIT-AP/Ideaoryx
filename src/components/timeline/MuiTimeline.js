@@ -41,7 +41,7 @@ function MuiTimeline() {
     <GlobalCss />
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">5<sup>th</sup> Feb</Typography>
+            <Typography color="textSecondary">6<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -49,14 +49,36 @@ function MuiTimeline() {
           </TimelineSeparator>
           <TimelineContent>
             <Typography variant="h6" component="h1">
-              Bootcamp 
+              Bootcamp & Ideathon
             </Typography>
-            <Typography>Quickly get acquainted with the event and its requirements.</Typography>
+            <Typography>
+              Get acquainted with the event and its requirements.
+            </Typography>
+            <Typography>
+              An ideathon is a short, intensive, workshop-like experience for students to address some of the most pressing challenges of our time.
+            </Typography>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
             <Typography color="textSecondary">6<sup>th</sup> Feb</Typography>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot />
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+            <Typography variant="h6" component="h1">
+              Review
+            </Typography>
+            <Typography>
+              Submitted projects will be evaluated by an expert panel based on several parameters.
+            </Typography>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent >
+            <Typography color="textSecondary">7<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
@@ -71,22 +93,7 @@ function MuiTimeline() {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent >
-            <Typography color="textSecondary">7<sup>th</sup> Feb</Typography>
-          </TimelineOppositeContent>
-          <TimelineSeparator>
-            <TimelineDot />
-            <TimelineConnector />
-          </TimelineSeparator>
-          <TimelineContent>
-            <Typography variant="h6" component="h1">
-              Review
-            </Typography>
-            <Typography>Submitted projects will be evaluated by an expert panel based on several parameters.</Typography>
-          </TimelineContent>
-        </TimelineItem>
-        <TimelineItem>
-          <TimelineOppositeContent >
-            <Typography color="textSecondary">13<sup>th</sup> Feb</Typography>
+            <Typography color="textSecondary">14<sup>th</sup> Feb</Typography>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot />
