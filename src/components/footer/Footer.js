@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../../assets/Ideaoryx.svg'
+import logo from '../../assets/Ideaoryx.png'
 import {
   FaInstagram,
   FaYoutube,

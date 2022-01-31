@@ -12,7 +12,7 @@ import {
   NavBtnLink,
 } from "./NavbarElements";
 
-import logo from '../../assets/Ideaoryx.svg'
+import logo from '../../assets/Ideaoryx.png'
 
 function Navbar({ toggle }) {
   return (
@@ -40,7 +40,7 @@ function Navbar({ toggle }) {
             
           </NavMenu>
           <NavBtn>
-            <NavBtnLink href="#">Register</NavBtnLink>
+            <NavBtnLink href="https://forms.gle/BK7EHuQHAxv3T8Vi9">Register</NavBtnLink>
           </NavBtn>
         </NavbarContainer>
       </Nav>

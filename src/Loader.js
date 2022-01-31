@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../src/assets/Ideaoryx.svg'
+import logo from '../src/assets/Ideaoryx.png'
 import './loader.css'
 
 function Loader() {
@@ -17,7 +17,7 @@ function Loader() {
                     <h2>Innovate</h2>
                 </div>
                 <div className="loder_elem">
-                    <img src={logo} alt="Ideaoryx logo" />
+                    <img src={logo} alt="IdeaOryx logo" />
                 </div>
             </div>    
         </div>
