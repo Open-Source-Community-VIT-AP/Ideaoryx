@@ -8,7 +8,7 @@ function About() {
             <AboutContainer id = "about">
                 <TextContainer>
                     <Heading>
-                        What is Ideaoryx ?
+                        What is IdeaOryx ?
                     </Heading>
                     <Para>
                         An idea not coupled with action will never get any bigger than the brain cell it occupied. So, it's not always about ideas but it's about making "ideas" happen.
